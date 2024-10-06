@@ -1,0 +1,21 @@
+{
+  "glyphs": {
+    "F": {"ha":582,"x_min":0,"x_max":0,"o":"m 562 0 l 562 716 l 0 716 l 0 0 l 562 0 m 531 31 l 31 31 l 31 685 l 531 685 l 531 31 "},
+    "r": {"ha":345,"x_min":0,"x_max":0,"o":"m 325 0 l 325 516 l 0 516 l 0 0 l 325 0 m 294 31 l 31 31 l 31 485 l 294 485 l 294 31 "},
+    "e": {"ha":527,"x_min":0,"x_max":0,"o":"m 507 0 l 507 516 l 0 516 l 0 0 l 507 0 m 476 31 l 31 31 l 31 485 l 476 485 l 476 31 "},
+    "l": {"ha":232,"x_min":0,"x_max":0,"o":"m 212 0 l 212 716 l 0 716 l 0 0 l 212 0 m 181 31 l 31 31 l 31 685 l 181 685 l 181 31 "},
+    "a": {"ha":527,"x_min":0,"x_max":0,"o":"m 507 0 l 507 516 l 0 516 l 0 0 l 507 0 m 476 31 l 31 31 l 31 485 l 476 485 l 476 31 "},
+    "n": {"ha":562,"x_min":0,"x_max":0,"o":"m 542 0 l 542 516 l 0 516 l 0 0 l 542 0 m 511 31 l 31 31 l 31 485 l 511 485 l 511 31 "},
+    "c": {"ha":492,"x_min":0,"x_max":0,"o":"m 472 0 l 472 516 l 0 516 l 0 0 l 472 0 m 441 31 l 31 31 l 31 485 l 441 485 l 441 31 "}
+  },
+  "familyName": "Helvetiker",
+  "ascender": 716,
+  "descender": -216,
+  "underlinePosition": -100,
+  "underlineThickness": 50,
+  "boundingBox": {"yMin": -216,"xMin": -170,"yMax": 716,"xMax": 1048},
+  "resolution": 1000,
+  "original_font_information": {"format": 0,"copyright": "Copyright (c) 1985, 1987, 1989, 1990 Adobe Systems Incorporated.  All Rights Reserved.Helvetica is a trademark of Linotype AG and/or its subsidiaries.","fontFamily": "Helvetiker","fontSubfamily": "Regular","uniqueID": "Helvetiker Regular: 2015","fullName": "Helvetiker Regular","version": "Version 1.00 2004 initial release","postScriptName": "Helvetiker-Regular","trademark": "Helvetica is a trademark of Linotype AG and/or its subsidiaries."},
+  "cssFontWeight": "normal",
+  "cssFontStyle": "normal"
+}
